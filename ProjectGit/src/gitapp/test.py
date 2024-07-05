@@ -3,5 +3,4 @@
 a = 1
 b = 2
 
-print(a+b)
-
+print("Somme de a + b = ", a+b)
